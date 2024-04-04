@@ -7,7 +7,7 @@ This is a collection of research, papers, blog posts, videos, etc. related to al
 
 * [Economics](#Economics)
 * [Fairness](#Fairness)
-* [Explainable Decision Making](#Explainable Decision Making)
+* [Explainable Decision Making](#Explainable-Decision-Making)
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
