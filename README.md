@@ -12,9 +12,10 @@ This is a collection of research, papers, blog posts, videos, etc. related to al
 ----------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Economics
-
+1. [ALGORITHM DESIGN:A FAIRNESS-ACCURACY FRONTIER](https://www.dropbox.com/scl/fi/52k8mnwdlb8mlg93cki11/FA_Frontier.pdf?rlkey=vf4qrx7gv042na83363gduwsa&dl=0) By Annie Liang, Jay Lu and Xiaosheng Mu
 
 ## Fairness
+
 
 
 ## Explainale Decision Making
